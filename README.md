@@ -1,2 +1,2 @@
 # AI-for-Math
-"AI for Math": paper recommendation, dataset collection and backup.
+Paper recommendation, dataset collection and data backup.
