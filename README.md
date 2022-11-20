@@ -4,6 +4,12 @@ Paper recommendation, dataset collection and data backup.
 Zhihu special column: [https://www.zhihu.com/column/c_1572704907148283905](https://www.zhihu.com/column/c_1572704907148283905)  
 Contact: xiaokaizhang1999@163.com
 
+### 2022-11-13: 4 papers from arxiv about "AI for Math" from 14 Nov to 20 Nov.
+22112001-Semantic Representations of Mathematical Expressions in a Continuous Vector Space  
+22112002-Towards a Mathematics Formalisation Assistant using Large Language Models  
+22112003-Towards Robust Numerical Question Answering Diagnosing Numerical Capabilities of NLP Systems  
+22112004-LEMMA, Bootstrapping High-Level Mathematical Reasoning with Learned Symbolic Abstractions
+
 ### 2022-11-18: IMO-level math problem solving: miniF2F benchmark and related solver.
 22111801-miniF2F, a cross-system benchmark for formal Olympiad-level mathematics  
 22111802-Formal Mathematics Statement Curriculum Learning  
