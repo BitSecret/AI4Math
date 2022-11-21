@@ -4,7 +4,13 @@ Paper recommendation, dataset collection and data backup.
 Zhihu special column: [https://www.zhihu.com/column/c_1572704907148283905](https://www.zhihu.com/column/c_1572704907148283905)  
 Contact: xiaokaizhang1999@163.com
 
-### 2022-11-13: 4 papers from arxiv about "AI for Math" from 14 Nov to 20 Nov.
+### 2022-11-21: 4 papers from AAAI2020 and TPAMI2020 about "AI for Math".
+22112101-Deep Neural Network Approximated Dynamic Programming for Combinatorial Optimization  
+22112102-Distributed Representations for Arithmetic Word Problems  
+22112103-Machine Number Sense, A Dataset of Visual Arithmetic Problems for Abstract and Relational Reasoning  
+22112104-The Gap of Semantic Parsing, A Survey on Automatic Math Word Problem Solvers
+
+### 2022-11-20: 4 papers from arxiv about "AI for Math" from 14 Nov to 20 Nov.
 22112001-Semantic Representations of Mathematical Expressions in a Continuous Vector Space  
 22112002-Towards a Mathematics Formalisation Assistant using Large Language Models  
 22112003-Towards Robust Numerical Question Answering Diagnosing Numerical Capabilities of NLP Systems  
