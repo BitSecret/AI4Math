@@ -16,6 +16,7 @@ Contact: xiaokaizhang1999@163.com
 22111803-Wielding Hammers to Integrate Language Models and Automated Theorem Provers  
 22111804-Autoformalization with Large Language Models  
 22111805-HyperTree Proof Search for Neural Theorem Proving  
+22112006-Draft, Sketch, and Prove - Guiding Formal Theorem Provers with Informal Proofs
 
 ### 2022-11-13: 2 papers from arxiv about "AI for Math" from 1 Nov to 13 Nov.
 22111301-What is my math transformer doing Three results on interpretability and generalization  
