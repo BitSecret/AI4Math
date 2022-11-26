@@ -1,8 +1,13 @@
 # AI-for-Math
-Paper recommendation, dataset collection and data backup.
+Paper recommendation and backup.
 
 Zhihu special column: [https://www.zhihu.com/column/c_1572704907148283905](https://www.zhihu.com/column/c_1572704907148283905)  
 Contact: xiaokaizhang1999@163.com
+
+### 2022-11-26: 3 papers from arxiv about "AI for Math" from 21 Nov to 24 Nov.
+22112601-OLGA, An Ontology and LSTM-based approach for generating Arithmetic Word Problems (AWPs) of transfer type  
+22112602-Automatic Generation of Socratic Subquestions for Teaching Math Word Problems  
+22112603-DyRRen, A Dynamic Retriever-Reranker-Generator Model for Numerical Reasoning over Tabular and Textual Data  
 
 ### 2022-11-21: 4 papers from AAAI2020 and TPAMI2020 about "AI for Math".
 22112101-Deep Neural Network Approximated Dynamic Programming for Combinatorial Optimization  
