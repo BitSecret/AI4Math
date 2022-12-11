@@ -4,6 +4,15 @@ Paper recommendation and backup.
 Zhihu special column: [https://www.zhihu.com/column/c_1572704907148283905](https://www.zhihu.com/column/c_1572704907148283905)  
 Contact: xiaokaizhang1999@163.com
 
+### 2022-12-11: 7 papers from arxiv about "AI for Math" from 30 Nov to 11 Dec.
+22121101-Peano, Learning Formal Mathematical Reasoning  
+22121102-Chaining Simultaneous Thoughts for Numerical Reasoning  
+22121103-Solving math word problems with process- and outcome-based feedback  
+22121104-Textual Enhanced Contrastive Learning for Solving Math Word Problems  
+22121105-UniGeo, Unifying Geometry Logical Reasoning via Reformulating Mathematical Expression  
+22121106-Analogical Math Word Problems Solving with Enhanced Problem-Solution Association  
+22121107-Generalizing Math Word Problem Solvers via Solution Diversification  
+
 ### 2022-11-26: 3 papers from arxiv about "AI for Math" from 21 Nov to 24 Nov.
 22112601-OLGA, An Ontology and LSTM-based approach for generating Arithmetic Word Problems (AWPs) of transfer type  
 22112602-Automatic Generation of Socratic Subquestions for Teaching Math Word Problems  
