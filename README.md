@@ -1,8 +1,13 @@
 # AI-for-Math
 Paper recommendation and backup.
 
-Zhihu special column: [https://www.zhihu.com/column/c_1572704907148283905](https://www.zhihu.com/column/c_1572704907148283905)  
+Zhihu: [AI for Math](https://www.zhihu.com/column/c_1572704907148283905)  
 Contact: xiaokaizhang1999@163.com
+
+### 2023-01-03: 3 papers from arxiv about "AI for Math" from 13 Dec to 31 Dec.
+23010301-Automated Search for Conjectures on Mathematical Constants using Analysis of Integer Sequences  
+23010302-MatCha,Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering  
+23010303-A Survey of Deep Learning for Mathematical Reasoning  
 
 ### 2022-12-11: 7 papers from arxiv about "AI for Math" from 30 Nov to 11 Dec.
 22121101-Peano, Learning Formal Mathematical Reasoning  
