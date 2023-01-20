@@ -4,6 +4,13 @@ Paper recommendation and backup.
 Zhihu: [AI for Math](https://www.zhihu.com/column/c_1572704907148283905)  
 Contact: xiaokaizhang1999@163.com
 
+### 2023-01-20: 5 papers from arxiv about "AI for Math" from 9 Jan to 20 Jan.
+23012001-Symbolic expression generation via Variational Auto-Encoder  
+23012002-Learning to solve arithmetic problems with a virtual abacus  
+23012003-Tracing and Manipulating Intermediate Values in Neural Math Problem Solvers  
+23012004-Towards a Holistic Understanding of Mathematical Questions with Contrastive Pre-training  
+23012005-Discover governing differential equations from evolving systems  
+
 ### 2023-01-08: 3 papers from arxiv about "AI for Math" from 1 Jan to 8 Jan.
 23010803-Towards Autoformalization of Mathematics and Code Correctness, Experiments with Elementary Proofs  
 23010801-Pattern Recognition Experiments on Mathematical Expressions  
