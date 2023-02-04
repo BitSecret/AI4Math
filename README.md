@@ -4,6 +4,14 @@ Paper recommendation and backup.
 Zhihu: [AI for Math](https://www.zhihu.com/column/c_1572704907148283905)  
 Contact: xiaokaizhang1999@163.com
 
+### 2023-02-04: 6 papers from arxiv about "AI for Math" from 21 Jan to 5 Feb.
+23020401-An Enhanced V-cycle MgNet Model for Operator Learning in Numerical Partial Differential Equations  
+23020402-Reinforcement learning-based estimation for partial differential equations  
+23020403-Mathematics, word problems, common sense, and artificial intelligence  
+23020404-Can an AI Win Ghana's National Science and Maths Quiz, An AI Grand Challenge for Education  
+23020405-Fast Resolution Agnostic Neural Techniques to Solve Partial Differential Equations  
+23020406-Mathematical Capabilities of ChatGPT  
+
 ### 2023-01-20: 5 papers from arxiv about "AI for Math" from 9 Jan to 20 Jan.
 23012001-Symbolic expression generation via Variational Auto-Encoder  
 23012002-Learning to solve arithmetic problems with a virtual abacus  
