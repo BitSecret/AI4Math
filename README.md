@@ -4,6 +4,31 @@ Paper recommendation and backup.
 Zhihu: [AI for Math](https://www.zhihu.com/column/c_1572704907148283905)  
 Contact: xiaokaizhang1999@163.com
 
+### 2023-02-09: 23 papers from ACL2020(01-04), CVPR2020(05-06), IJCAI2020(07), AAAI2021(08-14), ACL2021(15-21), ICML2021(22), IJCAI2021(23) about "AI for Math".
+23020901-A Diverse Corpus for Evaluating and Developing English Math Word Problem Solvers  
+23020902-Graph-to-Tree Learning for Solving Math Word Problems  
+23020903-Injecting Numerical Reasoning Skills into Language Models  
+23020904-Premise Selection in Natural Language Mathematical Texts  
+23020905-Recognizing Handwritten Mathematical Expressions via Paired Dual Loss Attention Network and Printed Mathematical Expressions  
+23020906-Visual Parsing With Query-Driven Global Graph Attention (QD-GGA) Preliminary Results for Handwritten Math Formula Recognition  
+23020907-Teacher-Student Networks with Multiple Decoders for Solving Math Word Problem  
+23020908-A Bottom-Up DAG Structure Extraction Model for Math Word Problems  
+23020909-ECG ODE-GAN Learning Ordinary Differential Equations of ECG Dynamics via Generative Adversarial Learning  
+23020910-Graph-to-Graph Towards Accurate and Interpretable Online Handwritten Mathematical Expression Recognition  
+23020911-HMS A Hierarchical Solver with Dependency-Enhanced Understanding for Math Word Problem  
+23020912-Learning by Fixing Solving Math Word Problems with Weak Supervision  
+23020913-RadarMath An Intelligent Tutoring System for Math Education  
+23020914-Recognizing and Verifying Mathematical Equations using Multiplicative Differential Neural Units  
+23020915-GeoQA A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning  
+23020916-Inter-GPS Interpretable Geometry Problem Solving with Formal Language and Symbolic Reasoning  
+23020917-Math Word Problem Solving with Explicit Numerical Values  
+23020918-Measuring and Improving BERT’s Mathematical Abilities by Predicting the Order of Reasoning  
+23020919-Neural-Symbolic Solver for Math Word Problems with Auxiliary Tasks  
+23020920-Sequence to General Tree Knowledge-Guided Geometry Word Problem Solving  
+23020921-Towards Table-to-Text Generation with Numerical Reasoning  
+23020922-LIME Learning Inductive Bias for Primitives of Mathematical Reasoning  
+23020923-Solving Math Word Problems with Teacher Supervision  
+
 ### 2023-02-04: 6 papers from arxiv about "AI for Math" from 21 Jan to 5 Feb.
 23020401-An Enhanced V-cycle MgNet Model for Operator Learning in Numerical Partial Differential Equations  
 23020402-Reinforcement learning-based estimation for partial differential equations  
@@ -61,7 +86,7 @@ Contact: xiaokaizhang1999@163.com
 22111803-Wielding Hammers to Integrate Language Models and Automated Theorem Provers  
 22111804-Autoformalization with Large Language Models  
 22111805-HyperTree Proof Search for Neural Theorem Proving  
-22112006-Draft, Sketch, and Prove - Guiding Formal Theorem Provers with Informal Proofs
+22111806-Draft, Sketch, and Prove - Guiding Formal Theorem Provers with Informal Proofs
 
 ### 2022-11-13: 2 papers from arxiv about "AI for Math" from 1 Nov to 13 Nov.
 22111301-What is my math transformer doing Three results on interpretability and generalization  
