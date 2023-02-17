@@ -4,6 +4,17 @@ Paper recommendation and backup.
 Zhihu: [AI for Math](https://www.zhihu.com/column/c_1572704907148283905)  
 Contact: xiaokaizhang1999@163.com
 
+### 2023-02-17: 9 papers from arxiv about "AI for Math" from 6 Feb to 19 Feb.
+23021701-Techniques to Improve Neural Math Word Problem Solvers  
+23021702-Analyzing the Performance of Deep Encoder-Decoder Networks as Surrogates for a Diffusion Equation  
+23021703-Solving Maxwell's Equation in 2D with Neural Networks with Local Converging Inputs  
+23021704-Numerical Methods For PDEs Over Manifolds Using Spectral Physics Informed Neural Networks  
+23021705-Learning by Applying, A General Framework for Mathematical Reasoning via Enhancing Explicit Knowledge Learning  
+23021706-Do Deep Neural Networks Capture Compositionality in Arithmetic Reasoning  
+23021707-Tree-Based Representation and Generation of Natural and Mathematical Language  
+23021708-A Neural PDE Solver with Temporal Stencil Modeling  
+23021709-Learning-based solutions to nonlinear hyperbolic PDEs, Empirical insights on generalization errors  
+
 ### 2023-02-09: 23 papers from ACL2020(01-04), CVPR2020(05-06), IJCAI2020(07), AAAI2021(08-14), ACL2021(15-21), ICML2021(22), IJCAI2021(23) about "AI for Math".
 23020901-A Diverse Corpus for Evaluating and Developing English Math Word Problem Solvers  
 23020902-Graph-to-Tree Learning for Solving Math Word Problems  
@@ -88,9 +99,8 @@ Contact: xiaokaizhang1999@163.com
 22111805-HyperTree Proof Search for Neural Theorem Proving  
 22111806-Draft, Sketch, and Prove - Guiding Formal Theorem Provers with Informal Proofs
 
-### 2022-11-13: 2 papers from arxiv about "AI for Math" from 1 Nov to 13 Nov.
+### 2022-11-13: 1 paper from arxiv about "AI for Math" from 1 Nov to 13 Nov.
 22111301-What is my math transformer doing Three results on interpretability and generalization  
-22111302-Towards Better Out-of-Distribution Generalization of Neural Algorithmic Reasoning Tasks
 
 ### 2022-11-11: 7 papers of DeepMind about "AI for Math" from 2020 to 2022.
 22111101-Learning to Prove from Synthetic Theorems  
