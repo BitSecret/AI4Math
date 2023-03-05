@@ -1,8 +1,9 @@
 # AI-for-Math
-Paper recommendation and backup.
-
-Zhihu: [AI for Math](https://www.zhihu.com/column/c_1572704907148283905)  
-Contact: xiaokaizhang1999@163.com
+[![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)](https://github.com/BitSecret/AI-for-Math)
+[![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
+[![Survey](https://img.shields.io/badge/Survey-AI4Math-blue)](https://github.com/BitSecret/AI-for-Math)  
+The essence of intelligence is **abstract ability** and **reasoning ability**, which are the basis of learning. With abstract ability, we can build a static image of the objective world in the subjective world. With the ability of reasoning, we can simulate the dynamic changes of the objective world in the subjective world, and then make "predictive" decisions. The essence of intelligence is abstract and reasoning, and the ultimate embodiment of human abstract and reasoning ability is **mathematics**. Therefore, exploring how AI solves mathematical problems is a feasible way to realize AGI.  
+You can have an overview of the topic of the paper here. See *abstract* for the abstract of each paper.  
 
 ### 2023-02-17: 9 papers from arxiv about "AI for Math" from 6 Feb to 19 Feb.
 23021701-Techniques to Improve Neural Math Word Problem Solvers  

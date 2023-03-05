@@ -1,2 +1,6 @@
-.record
+notes
+core
+data
 .gitignore
+.idea
+__pycache__
