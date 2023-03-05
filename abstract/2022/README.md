@@ -29,10 +29,11 @@ You can have an overview of the topic of the paper here. See *abstract* for the 
 - **The Gap of Semantic Parsing, A Survey on Automatic Math Word Problem Solvers**, arXiv: [[paper]()]
 
 ### 2022-11-20: 4 papers from arxiv about "AI for Math" from 14 Nov to 20 Nov
-- **Semantic Representations of Mathematical Expressions in a Continuous Vector Space**, arXiv: [[paper]()]
-- **Towards a Mathematics Formalisation Assistant using Large Language Models**, arXiv: [[paper]()]
-- **Towards Robust Numerical Question Answering Diagnosing Numerical Capabilities of NLP Systems**, arXiv: [[paper]()]
-- **LEMMA: Bootstrapping High-Level Mathematical Reasoning with Learned Symbolic Abstractions**, arXiv: [[paper]()]
+- **Semantic Representations of Mathematical Expressions in a Continuous Vector Space**, arXiv:2211.08142 [[paper](https://arxiv.org/abs/2211.08142)
+- **Towards a Mathematics Formalisation Assistant using Large Language Models**, arXiv:2211.07524 [[paper](https://arxiv.org/abs/2211.07524)
+- **Towards Robust Numerical Question Answering: Diagnosing Numerical Capabilities of NLP Systems**, arXiv:2211.07455 [[paper](https://arxiv.org/abs/2211.07455)
+- **LEMMA: Bootstrapping High-Level Mathematical Reasoning with Learned Symbolic Abstractions**, arXiv:2211.08671 [[paper](https://arxiv.org/abs/2211.08671)
+
 
 ### 2022-11-18: IMO-level math problem solving: miniF2F benchmark and related solver
 - **miniF2F, a cross-system benchmark for formal Olympiad-level mathematics**, arXiv: [[paper]()]
