@@ -3,7 +3,8 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 [![Survey](https://img.shields.io/badge/Survey-AI4Math-blue)](https://github.com/BitSecret/AI-for-Math)  
 The essence of intelligence is **abstract ability** and **reasoning ability**, which are the basis of learning. With abstract ability, we can build a static image of the objective world in the subjective world. With the ability of reasoning, we can simulate the dynamic changes of the objective world in the subjective world, and then make "predictive" decisions. The essence of intelligence is abstract and reasoning, and the ultimate embodiment of human abstract and reasoning ability is **mathematics**. Therefore, exploring how AI solves mathematical problems is a feasible way to realize AGI.  
-You can have an overview of the topic of the paper here. See *abstract* for the abstract of each paper.  
+You can have an overview of the topic of the paper here.   
+See **[abstract](https://github.com/BitSecret/AI-for-Math/tree/main/abstract)** for the abstract of each paper.  
 
 ### 2023-03-02: 19 papers from arxiv about "AI for Math" from 20 Feb to 4 Mar
 - **On Robust Numerical Solver for ODE via Self-Attention Mechanism**, arXiv:2302.10184 [[paper](https://arxiv.org/abs/2302.10184)]
