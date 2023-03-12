@@ -2,9 +2,23 @@
 [![Version](https://img.shields.io/badge/Version-1.0-brightgreen)](https://github.com/BitSecret/AI-for-Math)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 [![Survey](https://img.shields.io/badge/Survey-AI4Math-blue)](https://github.com/BitSecret/AI-for-Math)  
-The essence of intelligence is **abstract ability** and **reasoning ability**, which are the basis of learning. With abstract ability, we can build a static image of the objective world in the subjective world. With the ability of reasoning, we can simulate the dynamic changes of the objective world in the subjective world, and then make "predictive" decisions. The essence of intelligence is abstract and reasoning, and the ultimate embodiment of human abstract and reasoning ability is **mathematics**. Therefore, exploring how AI solves mathematical problems is a feasible way to realize AGI.  
-You can have an overview of the topic of the paper here.   
-See **[abstract](https://github.com/BitSecret/AI-for-Math/tree/main/abstract)** for the abstract of each paper.  
+The essence of intelligence is **abstract ability** and **reasoning ability**, which are the basis of learning. With abstract ability, we can build a static image of the objective world in the subjective world. With the ability of reasoning, we can simulate the dynamic changes of the objective world in the subjective world, and then make "predictive" decisions.   
+The essence of intelligence is abstract and reasoning, and the ultimate embodiment of human abstract and reasoning ability is **mathematics**. Therefore, exploring how AI solves mathematical problems is a feasible way to realize AGI.  
+You can have an overview of the topic of the paper in **here**. See **[abstract](https://github.com/BitSecret/AI-for-Math/tree/main/abstract)** for the abstract of each paper.  
+
+### 23-03-12: 12 papers from arxiv about "AI for Math" from 6 Mar to 12 Mar
+- **Morpho-logic from a Topos Perspective: Application to symbolic AI**, arXiv:2303.04895 [[paper](https://arxiv.org/abs/2303.04895)]
+- **Sparse and Local Networks for Hypergraph Reasoning**, arXiv:2303.05496 [[paper](https://arxiv.org/abs/2303.05496)]
+- **MathPrompter: Mathematical Reasoning using Large Language Models**, arXiv:2303.05398 [[paper](https://arxiv.org/abs/2303.05398)]
+- **Visual Abstraction and Reasoning through Language**, arXiv:2303.04091 [[paper](https://arxiv.org/abs/2303.04091)]
+- **Neural Compositional Rule Learning for Knowledge Graph Reasoning**, arXiv:2303.03581 [[paper](https://arxiv.org/abs/2303.03581)]
+- **Document-level Relation Extraction with Cross-sentence Reasoning Graph**, arXiv:2303.03912 [[paper](https://arxiv.org/abs/2303.03912)]
+- **A Formal Metareasoning Model of Concurrent Planning and Execution**, arXiv:2303.02664 [[paper](https://arxiv.org/abs/2303.02664)]
+- **A Multi-Grained Self-Interpretable Symbolic-Neural Model For Single/Multi-Labeled Text Classification**, arXiv:2303.02860 [[paper](https://arxiv.org/abs/2303.02860)]
+- **Learning to reason over visual objects**, arXiv:2303.02260 [[paper](https://arxiv.org/abs/2303.02260)]
+- **A Neurosymbolic Approach to the Verification of Temporal Logic Properties of Learning enabled Control Systems**, arXiv:2303.05394 [[paper](https://arxiv.org/abs/2303.05394)]
+- **Symbolic Synthesis of Neural Networks**, arXiv:2303.03340 [[paper](https://arxiv.org/abs/2303.03340)]
+- **Deep symbolic regression for physics guided by units constraints: toward the automated discovery of physical laws**, arXiv:2303.03192 [[paper](https://arxiv.org/abs/2303.03192)]
 
 ### 2023-03-02: 19 papers from arxiv about "AI for Math" from 20 Feb to 4 Mar
 - **On Robust Numerical Solver for ODE via Self-Attention Mechanism**, arXiv:2302.10184 [[paper](https://arxiv.org/abs/2302.10184)]
