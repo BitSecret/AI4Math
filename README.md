@@ -54,29 +54,29 @@ You can have an overview of the topic of the paper in **here**. See **[abstract]
 
 
 ### 2023-02-09: 23 papers from ACL2020(01-04), CVPR2020(05-06), IJCAI2020(07), AAAI2021(08-14), ACL2021(15-21), ICML2021(22), IJCAI2021(23) about "AI for Math".
-23020901-A Diverse Corpus for Evaluating and Developing English Math Word Problem Solvers  
-23020902-Graph-to-Tree Learning for Solving Math Word Problems  
-23020903-Injecting Numerical Reasoning Skills into Language Models  
-23020904-Premise Selection in Natural Language Mathematical Texts  
-23020905-Recognizing Handwritten Mathematical Expressions via Paired Dual Loss Attention Network and Printed Mathematical Expressions  
-23020906-Visual Parsing With Query-Driven Global Graph Attention (QD-GGA) Preliminary Results for Handwritten Math Formula Recognition  
-23020907-Teacher-Student Networks with Multiple Decoders for Solving Math Word Problem  
-23020908-A Bottom-Up DAG Structure Extraction Model for Math Word Problems  
-23020909-ECG ODE-GAN Learning Ordinary Differential Equations of ECG Dynamics via Generative Adversarial Learning  
-23020910-Graph-to-Graph Towards Accurate and Interpretable Online Handwritten Mathematical Expression Recognition  
-23020911-HMS A Hierarchical Solver with Dependency-Enhanced Understanding for Math Word Problem  
-23020912-Learning by Fixing Solving Math Word Problems with Weak Supervision  
-23020913-RadarMath An Intelligent Tutoring System for Math Education  
-23020914-Recognizing and Verifying Mathematical Equations using Multiplicative Differential Neural Units  
-23020915-GeoQA A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning  
-23020916-Inter-GPS Interpretable Geometry Problem Solving with Formal Language and Symbolic Reasoning  
-23020917-Math Word Problem Solving with Explicit Numerical Values  
-23020918-Measuring and Improving BERT’s Mathematical Abilities by Predicting the Order of Reasoning  
-23020919-Neural-Symbolic Solver for Math Word Problems with Auxiliary Tasks  
-23020920-Sequence to General Tree Knowledge-Guided Geometry Word Problem Solving  
-23020921-Towards Table-to-Text Generation with Numerical Reasoning  
-23020922-LIME Learning Inductive Bias for Primitives of Mathematical Reasoning  
-23020923-Solving Math Word Problems with Teacher Supervision  
+- **A Diverse Corpus for Evaluating and Developing English Math Word Problem Solvers**, ACL2020 [[paper]()]
+- **Graph-to-Tree Learning for Solving Math Word Problems**, ACL2020 [[paper]()]
+- **Injecting Numerical Reasoning Skills into Language Models**, ACL2020 [[paper]()]
+- **Premise Selection in Natural Language Mathematical Texts**, ACL2020 [[paper]()]
+- **Recognizing Handwritten Mathematical Expressions via Paired Dual Loss Attention Network and Printed Mathematical Expressions**, CVPR2020 [[paper]()]
+- **Visual Parsing With Query-Driven Global Graph Attention (QD-GGA) Preliminary Results for Handwritten Math Formula Recognition**, CVPR2020 [[paper]()]
+- **Teacher-Student Networks with Multiple Decoders for Solving Math Word Problem**, IJCAI2020 [[paper]()]
+- **A Bottom-Up DAG Structure Extraction Model for Math Word Problems**, AAAI2021 [[paper]()]
+- **ECG ODE-GAN Learning Ordinary Differential Equations of ECG Dynamics via Generative Adversarial Learning**, AAAI2021 [[paper]()]
+- **Graph-to-Graph Towards Accurate and Interpretable Online Handwritten Mathematical Expression Recognition**, AAAI2021 [[paper]()]
+- **HMS A Hierarchical Solver with Dependency-Enhanced Understanding for Math Word Problem**, AAAI2021 [[paper]()]
+- **Learning by Fixing Solving Math Word Problems with Weak Supervision**, AAAI2021 [[paper]()]
+- **RadarMath An Intelligent Tutoring System for Math Education**, AAAI2021 [[paper]()]
+- **Recognizing and Verifying Mathematical Equations using Multiplicative Differential Neural Units**, AAAI2021 [[paper]()]
+- **GeoQA A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning**, ACL2021 [[paper]()]
+- **Inter-GPS Interpretable Geometry Problem Solving with Formal Language and Symbolic Reasoning**, ACL2021 [[paper]()]
+- **Math Word Problem Solving with Explicit Numerical Values**, ACL2021 [[paper]()]
+- **Measuring and Improving BERT’s Mathematical Abilities by Predicting the Order of Reasoning**, ACL2021 [[paper]()]
+- **Neural-Symbolic Solver for Math Word Problems with Auxiliary Tasks**, ACL2021 [[paper]()]
+- **Sequence to General Tree Knowledge-Guided Geometry Word Problem Solving**, ACL2021 [[paper]()]
+- **Towards Table-to-Text Generation with Numerical Reasoning**, ACL2021 [[paper]()]
+- **LIME Learning Inductive Bias for Primitives of Mathematical Reasoning**, ICML2021 [[paper]()]
+- **Solving Math Word Problems with Teacher Supervision**, IJCAI2021 [[paper]()]  
 
 ### 2023-02-04: 13 papers from arxiv about "AI for Math" from 1 Jan to 5 Feb
 - **Towards Autoformalization of Mathematics and Code Correctness: Experiments with Elementary Proofs**, arXiv:2301.02195 [[paper](https://arxiv.org/abs/2301.02195)]
