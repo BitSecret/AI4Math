@@ -6,6 +6,18 @@ The essence of intelligence is **abstract ability** and **reasoning ability**, w
 The essence of intelligence is abstract and reasoning, and the ultimate embodiment of human abstract and reasoning ability is **mathematics**. Therefore, exploring how AI solves mathematical problems is a feasible way to realize AGI.  
 You can have an overview of the topic of the paper in **here**. See **[abstract](https://github.com/BitSecret/AI-for-Math/tree/main/abstract)** for the abstract of each paper.  
 
+### 23-03-17: 10 papers from arxiv about "AI for Math" from 13 Mar to 17 Mar
+- **Neuro-symbolic Commonsense Social Reasoning**, arXiv:2303.08264 [[paper](https://arxiv.org/abs/2303.08264)]
+- **Can neural networks do arithmetic? A survey on the elementary numerical skills of state-of-the-art deep learning models**, arXiv:2303.07735 [[paper](https://arxiv.org/abs/2303.07735)]
+- **Ultra-High-Resolution Detector Simulation with Intra-Event Aware GAN and Self-Supervised Relational Reasoning**, arXiv:2303.08046 [[paper](https://arxiv.org/abs/2303.08046)]
+- **NeuroQL: A Neuro-Symbolic Language and Dataset for Inter-Subjective Reasoning**, arXiv:2303.07146 [[paper](https://arxiv.org/abs/2303.07146)]
+- **Symbolic Regression for PDEs using Pruned Differentiable Programs**, arXiv:2303.07009 [[paper](https://arxiv.org/abs/2303.07009)]
+- **Transformer-based Planning for Symbolic Regression**, arXiv:2303.06833 [[paper](https://arxiv.org/abs/2303.06833)]
+- **DOMINO: Visual Causal Reasoning with Time-Dependent Phenomena**, arXiv:2303.06556 [[paper](https://arxiv.org/abs/2303.06556)]
+- **Logic Against Bias: Textual Entailment Mitigates Stereotypical Sentence Reasoning**, arXiv:2303.05670 [[paper](https://arxiv.org/abs/2303.05670)]
+- **ART: Automatic multi-step reasoning and tool-use for large language models**, arXiv:2303.09014 [[paper](https://arxiv.org/abs/2303.09014)]
+- **Generating symbolic music using diffusion models**, arXiv:2303.08385 [[paper](https://arxiv.org/abs/2303.08385)]
+
 ### 23-03-12: 12 papers from arxiv about "AI for Math" from 6 Mar to 12 Mar
 - **Morpho-logic from a Topos Perspective: Application to symbolic AI**, arXiv:2303.04895 [[paper](https://arxiv.org/abs/2303.04895)]
 - **Sparse and Local Networks for Hypergraph Reasoning**, arXiv:2303.05496 [[paper](https://arxiv.org/abs/2303.05496)]
