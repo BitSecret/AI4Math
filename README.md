@@ -6,6 +6,18 @@ The essence of intelligence is **abstract ability** and **reasoning ability**, w
 The essence of intelligence is abstract and reasoning, and the ultimate embodiment of human abstract and reasoning ability is **mathematics**. Therefore, exploring how AI solves mathematical problems is a feasible way to realize AGI.  
 You can have an overview of the topic of the paper in **here**. See **[abstract](https://github.com/BitSecret/AI-for-Math/tree/main/abstract)** for the abstract of each paper.  
 
+### 23-03-27: 10 papers from arxiv about "AI for Math" from 20 Mar to 24 Mar
+- **Efficient Symbolic Reasoning for Neural-Network Verification**, arXiv:2303.13588 [[paper](https://arxiv.org/abs/2303.13588)]
+- **OntoMath${}^{\mathbf{PRO}}$ 2.0 Ontology: Updates of the Formal Model**, arXiv:2303.13542 [[paper](https://arxiv.org/abs/2303.13542)]
+- **Symbolic Music Structure Analysis with Graph Representations and Changepoint Detection Methods**, arXiv:2303.13881 [[paper](https://arxiv.org/abs/2303.13881)]
+- **NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations**, arXiv:2303.13483 [[paper](https://arxiv.org/abs/2303.13483)]
+- **Neuro-Symbolic Reasoning Shortcuts: Mitigation Strategies and their Limitations**, arXiv:2303.12578 [[paper](https://arxiv.org/abs/2303.12578)]
+- **Logical Expressiveness of Graph Neural Network for Knowledge Graph Reasoning**, arXiv:2303.12306 [[paper](https://arxiv.org/abs/2303.12306)]
+- **Are LLMs the Master of All Trades? : Exploring Domain-Agnostic Reasoning Skills of LLMs**, arXiv:2303.12810 [[paper](https://arxiv.org/abs/2303.12810)]
+- **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**, arXiv:2303.11381 [[paper](https://arxiv.org/abs/2303.11381)]
+- **A Graph-Guided Reasoning Approach for Open-ended Commonsense Question Answering**, arXiv:2303.10395 [[paper](https://arxiv.org/abs/2303.10395)]
+- **ChatGPT for Programming Numerical Methods**, arXiv:2303.12093 [[paper](https://arxiv.org/abs/2303.12093)]  
+
 ### 23-03-17: 10 papers from arxiv about "AI for Math" from 13 Mar to 17 Mar
 - **Neuro-symbolic Commonsense Social Reasoning**, arXiv:2303.08264 [[paper](https://arxiv.org/abs/2303.08264)]
 - **Can neural networks do arithmetic? A survey on the elementary numerical skills of state-of-the-art deep learning models**, arXiv:2303.07735 [[paper](https://arxiv.org/abs/2303.07735)]
