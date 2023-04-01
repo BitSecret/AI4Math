@@ -6,6 +6,19 @@ The essence of intelligence is **abstract ability** and **reasoning ability**, w
 The essence of intelligence is abstract and reasoning, and the ultimate embodiment of human abstract and reasoning ability is **mathematics**. Therefore, exploring how AI solves mathematical problems is a feasible way to realize AGI.  
 You can have an overview of the topic of the paper in **here**. See **[abstract](https://github.com/BitSecret/AI-for-Math/tree/main/abstract)** for the abstract of each paper.  
 
+### 23-04-01: 11 papers from arxiv about "AI for Math" from 27 Mar to 31 Mar
+- **Advances in apparent conceptual physics reasoning in ChatGPT-4**, arXiv:2303.17012 [[paper](https://arxiv.org/abs/2303.17012)]
+- **Neuro-symbolic Rule Learning in Real-world Classification Tasks**, arXiv:2303.16674 [[paper](https://arxiv.org/abs/2303.16674)]
+- **Explicit Planning Helps Language Models in Logical Reasoning**, arXiv:2303.15714 [[paper](https://arxiv.org/abs/2303.15714)]
+- **Mathematical Challenges in Deep Learning**, arXiv:2303.15464 [[paper](https://arxiv.org/abs/2303.15464)]
+- **Pitchclass2vec: Symbolic Music Structure Segmentation with Chord Embeddings**, arXiv:2303.15306 [[paper](https://arxiv.org/abs/2303.15306)]
+- **Mutually-paced Knowledge Distillation for Cross-lingual Temporal Knowledge Graph Reasoning**, arXiv:2303.14898 [[paper](https://arxiv.org/abs/2303.14898)]
+- **Are LLMs the Master of All Trades? : Exploring Domain-Agnostic Reasoning Skills of LLMs**, arXiv:2303.12810 [[paper](https://arxiv.org/abs/2303.12810)]
+- **Efficient Symbolic Reasoning for Neural-Network Verification**, arXiv:2303.13588 [[paper](https://arxiv.org/abs/2303.13588)]
+- **OntoMath${}^{\mathbf{PRO}}$ 2.0 Ontology: Updates of the Formal Model**, arXiv:2303.13542 [[paper](https://arxiv.org/abs/2303.13542)]
+- **Physics Symbolic Learner for Discovering Ground-Motion Models Via NGA-West2 Database**, arXiv:2303.14179 [[paper](https://arxiv.org/abs/2303.14179)]
+- **Symbolic Music Structure Analysis with Graph Representations and Changepoint Detection Methods**, arXiv:2303.13881 [[paper](https://arxiv.org/abs/2303.13881)]
+
 ### 23-03-27: 10 papers from arxiv about "AI for Math" from 20 Mar to 24 Mar
 - **Efficient Symbolic Reasoning for Neural-Network Verification**, arXiv:2303.13588 [[paper](https://arxiv.org/abs/2303.13588)]
 - **OntoMath${}^{\mathbf{PRO}}$ 2.0 Ontology: Updates of the Formal Model**, arXiv:2303.13542 [[paper](https://arxiv.org/abs/2303.13542)]
