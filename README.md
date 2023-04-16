@@ -6,6 +6,12 @@ The essence of intelligence is **abstract ability** and **reasoning ability**, w
 The essence of intelligence is abstract and reasoning, and the ultimate embodiment of human abstract and reasoning ability is **mathematics**. Therefore, exploring how AI solves mathematical problems is a feasible way to realize AGI.  
 You can have an overview of the topic of the paper in **here**. See **[abstract](https://github.com/BitSecret/AI-for-Math/tree/main/abstract)** for the abstract of each paper.  
 
+### 23-04-16: 4 papers from arxiv about "AI for Math" from 10 Apr to 14 Apr
+- **Reinforcement Learning Tutor Better Supported Lower Performers in a Math Task**, arXiv:2304.04933 [[paper](https://arxiv.org/abs/2304.04933)]
+- **Scallop: A Language for Neurosymbolic Programming**, arXiv:2304.04812 [[paper](https://arxiv.org/abs/2304.04812)]
+- **Why think step-by-step? Reasoning emerges from the locality of experience**, arXiv:2304.03843 [[paper](https://arxiv.org/abs/2304.03843)]
+- **Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4**, arXiv:2304.03439 [[paper](https://arxiv.org/abs/2304.03439)]
+
 ### 23-04-08: 4 papers from arxiv about "AI for Math" from 3 Apr to 7 Apr
 - **How well do Large Language Models perform in Arithmetic tasks?**, arXiv:2304.02015 [[paper](https://arxiv.org/abs/2304.02015)]
 - **Can the Inference Logic of Large Language Models be Disentangled into Symbolic Concepts?**, arXiv:2304.01083 [[paper](https://arxiv.org/abs/2304.01083)]
