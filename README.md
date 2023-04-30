@@ -6,6 +6,21 @@ The essence of intelligence is **abstract ability** and **reasoning ability**, w
 The essence of intelligence is abstract and reasoning, and the ultimate embodiment of human abstract and reasoning ability is **mathematics**. Therefore, exploring how AI solves mathematical problems is a feasible way to realize AGI.  
 You can have an overview of the topic of the paper in **here**. See **[abstract](https://github.com/BitSecret/AI-for-Math/tree/main/abstract)** for the abstract of each paper.  
 
+### 23-04-30: 13 papers from arxiv about "AI for Math" from 24 Apr to 28 Apr
+- **Interpretable Neural-Symbolic Concept Reasoning**, arXiv:2304.14068 [[paper](https://arxiv.org/abs/2304.14068)]
+- **Federated Prompting and Chain-of-Thought Reasoning for Improving LLMs Answering**, arXiv:2304.13911 [[paper](https://arxiv.org/abs/2304.13911)]
+- **Cluster Flow: how a hierarchical clustering layer make allows deep-NNs more resilient to hacking, more human-like and easily implements relational reasoning**, arXiv:2304.14081 [[paper](https://arxiv.org/abs/2304.14081)]
+- **Neuro-symbolic Zero-Shot Code Cloning with Cross-Language Intermediate Representation**, arXiv:2304.13350 [[paper](https://arxiv.org/abs/2304.13350)]
+- **Reinforcement Learning with Knowledge Representation and Reasoning: A Brief Survey**, arXiv:2304.12090 [[paper](https://arxiv.org/abs/2304.12090)]
+- **Geometric Relational Embeddings: A Survey**, arXiv:2304.11949 [[paper](https://arxiv.org/abs/2304.11949)]
+- **A Neuro-Symbolic Approach for Enhanced Human Motion Prediction**, arXiv:2304.11740 [[paper](https://arxiv.org/abs/2304.11740)]
+- **Who's the Best Detective? LLMs vs. MLs in Detecting Incoherent Fourth Grade Math Answers**, arXiv:2304.11257 [[paper](https://arxiv.org/abs/2304.11257)]
+- **Dialectical language model evaluation: An initial appraisal of the commonsense spatial reasoning abilities of LLMs**, arXiv:2304.11164 [[paper](https://arxiv.org/abs/2304.11164)]
+- **A Review of Symbolic, Subsymbolic and Hybrid Methods for Sequential Decision Making**, arXiv:2304.10590 [[paper](https://arxiv.org/abs/2304.10590)]
+- **Evaluating Transformer Language Models on Arithmetic Operations Using Number Decomposition**, arXiv:2304.10977 [[paper](https://arxiv.org/abs/2304.10977)]
+- **Is deep learning a useful tool for the pure mathematician?**, arXiv:2304.12602 [[paper](https://arxiv.org/abs/2304.12602)]
+- **Explainable AI Insights for Symbolic Computation: A case study on selecting the variable ordering for cylindrical algebraic decomposition**, arXiv:2304.12154 [[paper](https://arxiv.org/abs/2304.12154)]
+
 ### 23-04-16: 4 papers from arxiv about "AI for Math" from 10 Apr to 14 Apr
 - **Reinforcement Learning Tutor Better Supported Lower Performers in a Math Task**, arXiv:2304.04933 [[paper](https://arxiv.org/abs/2304.04933)]
 - **Scallop: A Language for Neurosymbolic Programming**, arXiv:2304.04812 [[paper](https://arxiv.org/abs/2304.04812)]
