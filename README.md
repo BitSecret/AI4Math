@@ -6,6 +6,15 @@ The essence of intelligence is **abstract ability** and **reasoning ability**, w
 The essence of intelligence is abstract and reasoning, and the ultimate embodiment of human abstract and reasoning ability is **mathematics**. Therefore, exploring how AI solves mathematical problems is a feasible way to realize AGI.  
 You can have an overview of the topic of the paper in **here**. See **[abstract](https://github.com/BitSecret/AI-for-Math/tree/main/abstract)** for the abstract of each paper.  
 
+### 23-05-07: 7 papers from arxiv about "AI for Math" from 1 May to 5 May
+- **Continual Reasoning: Non-Monotonic Reasoning in Neurosymbolic AI using Continual Learning**, arXiv:2305.02171 [[paper](https://arxiv.org/abs/2305.02171)]
+- **Where We Have Arrived in Proving the Emergence of Sparse Symbolic Concepts in AI Models**, arXiv:2305.01939 [[paper](https://arxiv.org/abs/2305.01939)]
+- **Chronosymbolic Learning: Efficient CHC Solving with Symbolic Reasoning and Inductive Learning**, arXiv:2305.01206 [[paper](https://arxiv.org/abs/2305.01206)]
+- **Complex Logical Reasoning over Knowledge Graphs using Large Language Models**, arXiv:2305.01157 [[paper](https://arxiv.org/abs/2305.01157)]
+- **Neurosymbolic AI - Why, What, and How**, arXiv:2305.00813 [[paper](https://arxiv.org/abs/2305.00813)]
+- **How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model**, arXiv:2305.00586 [[paper](https://arxiv.org/abs/2305.00586)]
+- **Interpretable Machine Learning for Science with PySR and SymbolicRegression.jl**, arXiv:2305.01582 [[paper](https://arxiv.org/abs/2305.01582)]
+
 ### 23-04-30: 13 papers from arxiv about "AI for Math" from 24 Apr to 28 Apr
 - **Interpretable Neural-Symbolic Concept Reasoning**, arXiv:2304.14068 [[paper](https://arxiv.org/abs/2304.14068)]
 - **Federated Prompting and Chain-of-Thought Reasoning for Improving LLMs Answering**, arXiv:2304.13911 [[paper](https://arxiv.org/abs/2304.13911)]
