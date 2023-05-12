@@ -6,6 +6,21 @@ The essence of intelligence is **abstract ability** and **reasoning ability**, w
 The essence of intelligence is abstract and reasoning, and the ultimate embodiment of human abstract and reasoning ability is **mathematics**. Therefore, exploring how AI solves mathematical problems is a feasible way to realize AGI.  
 You can have an overview of the topic of the paper in **here**. See **[abstract](https://github.com/BitSecret/AI-for-Math/tree/main/abstract)** for the abstract of each paper.  
 
+### 23-05-12: 13 papers from arxiv about "AI for Math" from 8 May to 12 May
+- **FactKG: Fact Verification via Reasoning on Knowledge Graphs**, arXiv:2305.06590 [[paper](https://arxiv.org/abs/2305.06590)]
+- **ComputeGPT: A computational chat model for numerical problems**, arXiv:2305.06223 [[paper](https://arxiv.org/abs/2305.06223)]
+- **ANALOGYKB: Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base**, arXiv:2305.05994 [[paper](https://arxiv.org/abs/2305.05994)]
+- **Neurosymbolic Artificial Intelligence (NSAI) based Algorithm for predicting the Impact Strength of Additive Manufactured Polylactic Acid (PLA) Specimens**, arXiv:2305.05668 [[paper](https://arxiv.org/abs/2305.05668)]
+- **Improved Logical Reasoning of Language Models via Differentiable Symbolic Programming**, arXiv:2305.03742 [[paper](https://arxiv.org/abs/2305.03742)]
+- **Non-Autoregressive Math Word Problem Solver with Unified Tree Structure**, arXiv:2305.04556 [[paper](https://arxiv.org/abs/2305.04556)]
+- **Language Independent Neuro-Symbolic Semantic Parsing for Form Understanding**, arXiv:2305.04460 [[paper](https://arxiv.org/abs/2305.04460)]
+- **Multi-View Graph Representation Learning for Answering Hybrid Numerical Reasoning Question**, arXiv:2305.03458 [[paper](https://arxiv.org/abs/2305.03458)]
+- **NeuroComparatives: Neuro-Symbolic Distillation of Comparative Knowledge**, arXiv:2305.04978 [[paper](https://arxiv.org/abs/2305.04978)]
+- **CAT: A Contextualized Conceptualization and Instantiation Framework for Commonsense Reasoning**, arXiv:2305.04808 [[paper](https://arxiv.org/abs/2305.04808)]
+- **Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models**, arXiv:2305.04091 [[paper](https://arxiv.org/abs/2305.04091)]
+- **T-SciQ: Teaching Multimodal Chain-of-Thought Reasoning via Large Language Model Signals for Science Question Answering**, arXiv:2305.03453 [[paper](https://arxiv.org/abs/2305.03453)]
+- **Exploring Softly Masked Language Modelling for Controllable Symbolic Music Generation**, arXiv:2305.03530 [[paper](https://arxiv.org/abs/2305.03530)]
+
 ### 23-05-07: 7 papers from arxiv about "AI for Math" from 1 May to 5 May
 - **Continual Reasoning: Non-Monotonic Reasoning in Neurosymbolic AI using Continual Learning**, arXiv:2305.02171 [[paper](https://arxiv.org/abs/2305.02171)]
 - **Where We Have Arrived in Proving the Emergence of Sparse Symbolic Concepts in AI Models**, arXiv:2305.01939 [[paper](https://arxiv.org/abs/2305.01939)]
