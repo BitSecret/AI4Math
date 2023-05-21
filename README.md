@@ -6,6 +6,20 @@ The essence of intelligence is **abstract ability** and **reasoning ability**, w
 The essence of intelligence is abstract and reasoning, and the ultimate embodiment of human abstract and reasoning ability is **mathematics**. Therefore, exploring how AI solves mathematical problems is a feasible way to realize AGI.  
 You can have an overview of the topic of the paper in **here**. See **[abstract](https://github.com/BitSecret/AI-for-Math/tree/main/abstract)** for the abstract of each paper.  
 
+### 23-05-21: 12 papers from arxiv about "AI for Math" from 15 May to 19 May
+- **Lightweight Online Learning for Sets of Related Problems in Automated Reasoning**, arXiv:2305.11087 [[paper](https://arxiv.org/abs/2305.11087)]
+- **ReasonNet: End-to-End Driving with Temporal and Global Reasoning**, arXiv:2305.10507 [[paper](https://arxiv.org/abs/2305.10507)]
+- **Neuro-Symbolic AI for Compliance Checking of Electrical Control Panels**, arXiv:2305.10113 [[paper](https://arxiv.org/abs/2305.10113)]
+- **River of No Return: Graph Percolation Embeddings for Efficient Knowledge Graph Reasoning**, arXiv:2305.09974 [[paper](https://arxiv.org/abs/2305.09974)]
+- **Discrete Diffusion Probabilistic Models for Symbolic Music Generation**, arXiv:2305.09489 [[paper](https://arxiv.org/abs/2305.09489)]
+- **Neurosymbolic AI and its Taxonomy: a survey**, arXiv:2305.08876 [[paper](https://arxiv.org/abs/2305.08876)]
+- **Is ChatGPT a Good Causal Reasoner? A Comprehensive Evaluation**, arXiv:2305.07375 [[paper](https://arxiv.org/abs/2305.07375)]
+- **S-REINFORCE: A Neuro-Symbolic Policy Gradient Approach for Interpretable Reinforcement Learning**, arXiv:2305.07367 [[paper](https://arxiv.org/abs/2305.07367)]
+- **CatE: Embedding $\mathcal{ALC}$ ontologies using category-theoretical semantics**, arXiv:2305.07163 [[paper](https://arxiv.org/abs/2305.07163)]
+- **StructGPT: A General Framework for Large Language Model to Reason over Structured Data**, arXiv:2305.09645 [[paper](https://arxiv.org/abs/2305.09645)]
+- **Comprehensive Solution Program Centric Pretraining for Table-and-Text Hybrid Numerical Reasoning**, arXiv:2305.07475 [[paper](https://arxiv.org/abs/2305.07475)]
+- **Open-WikiTable: Dataset for Open Domain Question Answering with Complex Reasoning over Table**, arXiv:2305.07288 [[paper](https://arxiv.org/abs/2305.07288)]
+
 ### 23-05-12: 13 papers from arxiv about "AI for Math" from 8 May to 12 May
 - **FactKG: Fact Verification via Reasoning on Knowledge Graphs**, arXiv:2305.06590 [[paper](https://arxiv.org/abs/2305.06590)]
 - **ComputeGPT: A computational chat model for numerical problems**, arXiv:2305.06223 [[paper](https://arxiv.org/abs/2305.06223)]
