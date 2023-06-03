@@ -4,7 +4,46 @@
 [![Survey](https://img.shields.io/badge/Survey-AI4Math-blue)](https://github.com/BitSecret/AI-for-Math)  
 The essence of intelligence is **abstract ability** and **reasoning ability**, which are the basis of learning. With abstract ability, we can build a static image of the objective world in the subjective world. With the ability of reasoning, we can simulate the dynamic changes of the objective world in the subjective world, and then make "predictive" decisions.   
 The essence of intelligence is abstract and reasoning, and the ultimate embodiment of human abstract and reasoning ability is **mathematics**. Therefore, exploring how AI solves mathematical problems is a feasible way to realize AGI.  
-You can have an overview of the topic of the paper in **here**. See **[abstract](https://github.com/BitSecret/AI-for-Math/tree/main/abstract)** for the abstract of each paper.  
+You can have an overview of the topic of the paper in **here**.  
+
+### 23-06-03: 37 papers from arxiv about "AI for Math" from 29 May to 2 Jun
+- **Parallel Neurosymbolic Integration with Concordia**, arXiv:2306.00480 [[paper](https://arxiv.org/abs/2306.00480)]
+- **Modeling and Analyzing Scorer Preferences in Short-Answer Math Questions**, arXiv:2306.00791 [[paper](https://arxiv.org/abs/2306.00791)]
+- **Interpretable Math Word Problem Solution Generation Via Step-by-step Planning**, arXiv:2306.00784 [[paper](https://arxiv.org/abs/2306.00784)]
+- **MuseCoco: Generating Symbolic Music from Text**, arXiv:2306.00110 [[paper](https://arxiv.org/abs/2306.00110)]
+- **What does the Failure to Reason with "Respectively" in Zero/Few-Shot Settings Tell Us about Language Models?**, arXiv:2305.19597 [[paper](https://arxiv.org/abs/2305.19597)]
+- **Strategic Reasoning with Language Models**, arXiv:2305.19165 [[paper](https://arxiv.org/abs/2305.19165)]
+- **AlphaBlock: Embodied Finetuning for Vision-Language Reasoning in Robot Manipulation**, arXiv:2305.18898 [[paper](https://arxiv.org/abs/2305.18898)]
+- **Chatbots put to the test in math and logic problems: A preliminary comparison and assessment of ChatGPT-3.5, ChatGPT-4, and Google Bard**, arXiv:2305.18618 [[paper](https://arxiv.org/abs/2305.18618)]
+- **Code Prompting: a Neural Symbolic Method for Complex Reasoning in Large Language Models**, arXiv:2305.18507 [[paper](https://arxiv.org/abs/2305.18507)]
+- **Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks**, arXiv:2305.18395 [[paper](https://arxiv.org/abs/2305.18395)]
+- **LLMs and the Abstraction and Reasoning Corpus: Successes, Failures, and the Importance of Object-based Representations**, arXiv:2305.18354 [[paper](https://arxiv.org/abs/2305.18354)]
+- **ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models**, arXiv:2305.18323 [[paper](https://arxiv.org/abs/2305.18323)]
+- **Cognitive network science reveals bias in GPT-3, ChatGPT, and GPT-4 mirroring math anxiety in high-school students**, arXiv:2305.18320 [[paper](https://arxiv.org/abs/2305.18320)]
+- **Doing the right thing for the right reason: Evaluating artificial moral cognition by probing cost insensitivity**, arXiv:2305.18269 [[paper](https://arxiv.org/abs/2305.18269)]
+- **Reason to explain: Interactive contrastive explanations (REASONX)**, arXiv:2305.18143 [[paper](https://arxiv.org/abs/2305.18143)]
+- **In-Context Analogical Reasoning with Pre-Trained Language Models**, arXiv:2305.17626 [[paper](https://arxiv.org/abs/2305.17626)]
+- **Ask an Expert: Leveraging Language Models to Improve Strategic Reasoning in Goal-Oriented Dialogue Models**, arXiv:2305.17878 [[paper](https://arxiv.org/abs/2305.17878)]
+- **Chain-of-Thought Hub: A Continuous Effort to Measure Large Language Models' Reasoning Performance**, arXiv:2305.17306 [[paper](https://arxiv.org/abs/2305.17306)]
+- **NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models**, arXiv:2305.16986 [[paper](https://arxiv.org/abs/2305.16986)]
+- **Language Models Can Improve Event Prediction by Few-Shot Abductive Reasoning**, arXiv:2305.16646 [[paper](https://arxiv.org/abs/2305.16646)]
+- **Are Diffusion Models Vision-And-Language Reasoners?**, arXiv:2305.16397 [[paper](https://arxiv.org/abs/2305.16397)]
+- **Being Right for Whose Right Reasons?**, arXiv:2306.00639 [[paper](https://arxiv.org/abs/2306.00639)]
+- **Inspecting Spoken Language Understanding from Kids for Basic Math Learning at Home**, arXiv:2306.00482 [[paper](https://arxiv.org/abs/2306.00482)]
+- **Large Language Models Are Not Abstract Reasoners**, arXiv:2305.19555 [[paper](https://arxiv.org/abs/2305.19555)]
+- **ScoNe: Benchmarking Negation Reasoning in Language Models With Fine-Tuning and In-Context Learning**, arXiv:2305.19426 [[paper](https://arxiv.org/abs/2305.19426)]
+- **The Magic of IF: Investigating Causal Reasoning Abilities in Large Language Models of Code**, arXiv:2305.19213 [[paper](https://arxiv.org/abs/2305.19213)]
+- **Graph Reasoning for Question Answering with Triplet Retrieval**, arXiv:2305.18742 [[paper](https://arxiv.org/abs/2305.18742)]
+- **Mathematical Structure of Syntactic Merge**, arXiv:2305.18278 [[paper](https://arxiv.org/abs/2305.18278)]
+- **Leveraging Training Data in Few-Shot Prompting for Numerical Reasoning**, arXiv:2305.18170 [[paper](https://arxiv.org/abs/2305.18170)]
+- **Learning a Structural Causal Model for Intuition Reasoning in Conversation**, arXiv:2305.17727 [[paper](https://arxiv.org/abs/2305.17727)]
+- **FERMAT: An Alternative to Accuracy for Numerical Reasoning**, arXiv:2305.17491 [[paper](https://arxiv.org/abs/2305.17491)]
+- **Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language Models**, arXiv:2305.16582 [[paper](https://arxiv.org/abs/2305.16582)]
+- **Counterfactual reasoning: Testing language models' understanding of hypothetical scenarios**, arXiv:2305.16572 [[paper](https://arxiv.org/abs/2305.16572)]
+- **Neural Machine Translation for Mathematical Formulae**, arXiv:2305.16433 [[paper](https://arxiv.org/abs/2305.16433)]
+- **Not All Neuro-Symbolic Concepts Are Created Equal: Analysis and Mitigation of Reasoning Shortcuts**, arXiv:2305.19951 [[paper](https://arxiv.org/abs/2305.19951)]
+- **Towards Constituting Mathematical Structures for Learning to Optimize**, arXiv:2305.18577 [[paper](https://arxiv.org/abs/2305.18577)]
+- **Detecting Errors in Numerical Data via any Regression Model**, arXiv:2305.16583 [[paper](https://arxiv.org/abs/2305.16583)]
 
 ### 23-05-28: 65 papers from arxiv about "AI for Math" from 22 May to 26 May
 - **SPRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning**, arXiv:2305.15486 [[paper](https://arxiv.org/abs/2305.15486)]
