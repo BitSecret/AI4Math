@@ -6,6 +6,35 @@ The essence of intelligence is **abstract ability** and **reasoning ability**, w
 The essence of intelligence is abstract and reasoning, and the ultimate embodiment of human abstract and reasoning ability is **mathematics**. Therefore, exploring how AI solves mathematical problems is a feasible way to realize AGI.  
 You can have an overview of the topic of the paper in **here**.  
 
+### 27 papers from arxiv about "AI for Math" from 12 Jun to 16 Jun
+- **A Graphical Formalism for Commonsense Reasoning with Recipes**, arXiv:2306.09042 [[paper](https://arxiv.org/abs/2306.09042)]
+- **Relational Temporal Graph Reasoning for Dual-task Dialogue Language  Understanding**, arXiv:2306.09114 [[paper](https://arxiv.org/abs/2306.09114)]
+- **Exploring the MIT Mathematics and EECS Curriculum Using Large Language  Models**, arXiv:2306.08997 [[paper](https://arxiv.org/abs/2306.08997)]
+- **Towards Benchmarking and Improving the Temporal Reasoning Capability of  Large Language Models**, arXiv:2306.08952 [[paper](https://arxiv.org/abs/2306.08952)]
+- **Toward Grounded Social Reasoning**, arXiv:2306.08651 [[paper](https://arxiv.org/abs/2306.08651)]
+- **Probabilistic Regular Tree Priors for Scientific Symbolic Reasoning**, arXiv:2306.08506 [[paper](https://arxiv.org/abs/2306.08506)]
+- **BoardgameQA: A Dataset for Natural Language Reasoning with Contradictory  Information**, arXiv:2306.07934 [[paper](https://arxiv.org/abs/2306.07934)]
+- **Human-Like Intuitive Behavior and Reasoning Biases Emerged in Language  Models -- and Disappeared in GPT-4**, arXiv:2306.07622 [[paper](https://arxiv.org/abs/2306.07622)]
+- **TART: A plug-and-play Transformer module for task-agnostic reasoning**, arXiv:2306.07536 [[paper](https://arxiv.org/abs/2306.07536)]
+- **Noisy Positive-Unlabeled Learning with Self-Training for Speculative  Knowledge Graph Reasoning**, arXiv:2306.07512 [[paper](https://arxiv.org/abs/2306.07512)]
+- **Explaining SAT Solving Using Causal Reasoning**, arXiv:2306.06294 [[paper](https://arxiv.org/abs/2306.06294)]
+- **Recursion of Thought: A Divide-and-Conquer Approach to Multi-Context  Reasoning with Language Models**, arXiv:2306.06891 [[paper](https://arxiv.org/abs/2306.06891)]
+- **Inductive reasoning in humans and large language models**, arXiv:2306.06548 [[paper](https://arxiv.org/abs/2306.06548)]
+- **Combining a Meta-Policy and Monte-Carlo Planning for Scalable Type-Based  Reasoning in Partially Observable Environments**, arXiv:2306.06067 [[paper](https://arxiv.org/abs/2306.06067)]
+- **SNeL: A Structured Neuro-Symbolic Language for Entity-Based Multimodal  Scene Understanding**, arXiv:2306.06036 [[paper](https://arxiv.org/abs/2306.06036)]
+- **Negotiated Reasoning: On Provably Addressing Relative  Over-Generalization**, arXiv:2306.05353 [[paper](https://arxiv.org/abs/2306.05353)]
+- **Neuro-Symbolic Approaches for Context-Aware Human Activity Recognition**, arXiv:2306.05058 [[paper](https://arxiv.org/abs/2306.05058)]
+- **Empowering Counterfactual Reasoning over Graph Neural Networks through  Inductivity**, arXiv:2306.04835 [[paper](https://arxiv.org/abs/2306.04835)]
+- **Learning by Analogy: Diverse Questions Generation in Math Word Problem**, arXiv:2306.09064 [[paper](https://arxiv.org/abs/2306.09064)]
+- **Diplomat: A Dialogue Dataset for Situated PragMATic Reasoning**, arXiv:2306.09030 [[paper](https://arxiv.org/abs/2306.09030)]
+- **ORGAN: Observation-Guided Radiology Report Generation via Tree Reasoning**, arXiv:2306.06466 [[paper](https://arxiv.org/abs/2306.06466)]
+- **Boosting Language Models Reasoning with Chain-of-Knowledge Prompting**, arXiv:2306.06427 [[paper](https://arxiv.org/abs/2306.06427)]
+- **Investigating the Effectiveness of ChatGPT in Mathematical Reasoning and  Problem Solving: Evidence from the Vietnamese National High School Graduation  Examination**, arXiv:2306.06331 [[paper](https://arxiv.org/abs/2306.06331)]
+- **Mathematical conjecture generation using machine intelligence**, arXiv:2306.07277 [[paper](https://arxiv.org/abs/2306.07277)]
+- **Bayesian Inverse Contextual Reasoning for Heterogeneous Semantics-Native  Communication**, arXiv:2306.06403 [[paper](https://arxiv.org/abs/2306.06403)]
+- **Neural Algorithmic Reasoning for Combinatorial Optimisation**, arXiv:2306.06064 [[paper](https://arxiv.org/abs/2306.06064)]
+- **Neural Symbolic Regression using Control Variables**, arXiv:2306.04718 [[paper](https://arxiv.org/abs/2306.04718)]
+
 ### 31 papers from arxiv about "AI for Math" from 5 Jun to 9 Jun
 - **Negotiated Reasoning: On Provably Addressing Relative  Over-Generalization**, arXiv:2306.05353 [[paper](https://arxiv.org/abs/2306.05353)]
 - **Neuro-Symbolic Approaches for Context-Aware Human Activity Recognition**, arXiv:2306.05058 [[paper](https://arxiv.org/abs/2306.05058)]
