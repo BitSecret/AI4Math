@@ -6,6 +6,30 @@ The essence of intelligence is **abstract ability** and **reasoning ability**, w
 The essence of intelligence is abstract and reasoning, and the ultimate embodiment of human abstract and reasoning ability is **mathematics**. Therefore, exploring how AI solves mathematical problems is a feasible way to realize AGI.  
 You can have an overview of the topic of the paper in **here**.  
 
+### 22 papers from arxiv about "AI for Math" from 19 Jun to 23 Jun
+- **Evaluating Large Language Models with NeuBAROCO: Syllogistic Reasoning  Ability and Human-like Biases**, arXiv:2306.12567 [[paper](https://arxiv.org/abs/2306.12567)]
+- **Do as I can, not as I get: Topology-aware multi-hop reasoning on  multi-modal knowledge graphs**, arXiv:2306.10345 [[paper](https://arxiv.org/abs/2306.10345)]
+- **G-NM: A Group of Numerical Time Series Prediction Models**, arXiv:2306.11667 [[paper](https://arxiv.org/abs/2306.11667)]
+- **RM-PRT: Realistic Robotic Manipulation Simulator and Benchmark with  Progressive Reasoning Tasks**, arXiv:2306.11335 [[paper](https://arxiv.org/abs/2306.11335)]
+- **Reasoning over the Air: A Reasoning-based Implicit Semantic-Aware  Communication Framework**, arXiv:2306.11229 [[paper](https://arxiv.org/abs/2306.11229)]
+- **Neuro-Symbolic Bi-Directional Translation -- Deep Learning  Explainability for Climate Tipping Point Research**, arXiv:2306.11161 [[paper](https://arxiv.org/abs/2306.11161)]
+- **JiuZhang 2.0: A Unified Chinese Pre-trained Language Model for  Multi-task Mathematical Problem Solving**, arXiv:2306.11027 [[paper](https://arxiv.org/abs/2306.11027)]
+- **Are Large Language Models Really Good Logical Reasoners? A Comprehensive  Evaluation From Deductive, Inductive and Abductive Views**, arXiv:2306.09841 [[paper](https://arxiv.org/abs/2306.09841)]
+- **A Graphical Formalism for Commonsense Reasoning with Recipes**, arXiv:2306.09042 [[paper](https://arxiv.org/abs/2306.09042)]
+- **Relational Temporal Graph Reasoning for Dual-task Dialogue Language  Understanding**, arXiv:2306.09114 [[paper](https://arxiv.org/abs/2306.09114)]
+- **Exploring the MIT Mathematics and EECS Curriculum Using Large Language  Models**, arXiv:2306.08997 [[paper](https://arxiv.org/abs/2306.08997)]
+- **Towards Benchmarking and Improving the Temporal Reasoning Capability of  Large Language Models**, arXiv:2306.08952 [[paper](https://arxiv.org/abs/2306.08952)]
+- **Toward Grounded Social Reasoning**, arXiv:2306.08651 [[paper](https://arxiv.org/abs/2306.08651)]
+- **Probabilistic Regular Tree Priors for Scientific Symbolic Reasoning**, arXiv:2306.08506 [[paper](https://arxiv.org/abs/2306.08506)]
+- **Symbolic Regression via Control Variable Genetic Programming**, arXiv:2306.08057 [[paper](https://arxiv.org/abs/2306.08057)]
+- **SituatedGen: Incorporating Geographical and Temporal Contexts into  Generative Commonsense Reasoning**, arXiv:2306.12552 [[paper](https://arxiv.org/abs/2306.12552)]
+- **Which Spurious Correlations Impact Reasoning in NLI Models? A Visual  Interactive Diagnosis through Data-Constrained Counterfactuals**, arXiv:2306.12146 [[paper](https://arxiv.org/abs/2306.12146)]
+- **Modeling Hierarchical Reasoning Chains by Linking Discourse Units and  Key Phrases for Reading Comprehension**, arXiv:2306.12069 [[paper](https://arxiv.org/abs/2306.12069)]
+- **Fine-tuning Large Enterprise Language Models via Ontological Reasoning**, arXiv:2306.10723 [[paper](https://arxiv.org/abs/2306.10723)]
+- **Learning by Analogy: Diverse Questions Generation in Math Word Problem**, arXiv:2306.09064 [[paper](https://arxiv.org/abs/2306.09064)]
+- **DiPlomat: A Dialogue Dataset for Situated Pragmatic Reasoning**, arXiv:2306.09030 [[paper](https://arxiv.org/abs/2306.09030)]
+- **Rapid Image Labeling via Neuro-Symbolic Learning**, arXiv:2306.10490 [[paper](https://arxiv.org/abs/2306.10490)]
+
 ### 27 papers from arxiv about "AI for Math" from 12 Jun to 16 Jun
 - **A Graphical Formalism for Commonsense Reasoning with Recipes**, arXiv:2306.09042 [[paper](https://arxiv.org/abs/2306.09042)]
 - **Relational Temporal Graph Reasoning for Dual-task Dialogue Language  Understanding**, arXiv:2306.09114 [[paper](https://arxiv.org/abs/2306.09114)]
