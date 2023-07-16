@@ -6,6 +6,20 @@ The essence of intelligence is **abstract ability** and **reasoning ability**, w
 The essence of intelligence is abstract and reasoning, and the ultimate embodiment of human abstract and reasoning ability is **mathematics**. Therefore, exploring how AI solves mathematical problems is a feasible way to realize AGI.  
 You can have an overview of the topic of the paper in **here**.  
 
+### 12 papers from arxiv about "AI for Math" from 10 Jul to 14 Jul
+- **SecureFalcon: The Next Cyber Reasoning System for Cyber Security**, arXiv:2307.06616 [[paper](https://arxiv.org/abs/2307.06616)]
+- **Can Vision-Language Models be a Good Guesser? Exploring VLMs for Times  and Location Reasoning**, arXiv:2307.06166 [[paper](https://arxiv.org/abs/2307.06166)]
+- **Neural-Symbolic Recommendation with Graph-Enhanced Information**, arXiv:2307.05036 [[paper](https://arxiv.org/abs/2307.05036)]
+- **Reasoning over the Behaviour of Objects in Video-Clips for Adverb-Type  Recognition**, arXiv:2307.04132 [[paper](https://arxiv.org/abs/2307.04132)]
+- **Teach Me How to Learn: A Perspective Review towards User-centered  Neuro-symbolic Learning for Robotic Surgical Systems**, arXiv:2307.03853 [[paper](https://arxiv.org/abs/2307.03853)]
+- **Structure Guided Multi-modal Pre-trained Transformer for Knowledge Graph  Reasoning**, arXiv:2307.03591 [[paper](https://arxiv.org/abs/2307.03591)]
+- **Parmesan: mathematical concept extraction for education**, arXiv:2307.06699 [[paper](https://arxiv.org/abs/2307.06699)]
+- **Beyond the Obvious: Evaluating the Reasoning Ability In Real-life  Scenarios of Language Models on Life Scapes Reasoning  Benchmark~(LSR-Benchmark)**, arXiv:2307.05113 [[paper](https://arxiv.org/abs/2307.05113)]
+- **SimpleMTOD: A Simple Language Model for Multimodal Task-Oriented  Dialogue with Symbolic Scene Representation**, arXiv:2307.04907 [[paper](https://arxiv.org/abs/2307.04907)]
+- **Discovering Symbolic Laws Directly from Trajectories with Hamiltonian  Graph Neural Networks**, arXiv:2307.05299 [[paper](https://arxiv.org/abs/2307.05299)]
+- **False Sense of Security: Leveraging XAI to Analyze the Reasoning and  True Performance of Context-less DGA Classifiers**, arXiv:2307.04358 [[paper](https://arxiv.org/abs/2307.04358)]
+- **Teaching Arithmetic to Small Transformers**, arXiv:2307.03381 [[paper](https://arxiv.org/abs/2307.03381)]
+
 ### 22 papers from arxiv about "AI for Math" from 19 Jun to 23 Jun
 - **Evaluating Large Language Models with NeuBAROCO: Syllogistic Reasoning  Ability and Human-like Biases**, arXiv:2306.12567 [[paper](https://arxiv.org/abs/2306.12567)]
 - **Do as I can, not as I get: Topology-aware multi-hop reasoning on  multi-modal knowledge graphs**, arXiv:2306.10345 [[paper](https://arxiv.org/abs/2306.10345)]
