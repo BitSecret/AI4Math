@@ -6,6 +6,25 @@ The essence of intelligence is **abstract ability** and **reasoning ability**, w
 The essence of intelligence is abstract and reasoning, and the ultimate embodiment of human abstract and reasoning ability is **mathematics**. Therefore, exploring how AI solves mathematical problems is a feasible way to realize AGI.  
 You can have an overview of the topic of the paper in **here**.  
 
+### 17 papers from arxiv about "AI for Math" from 17 Jul to 21 Jul
+- **Invalid Logic, Equivalent Gains: The Bizarreness of Reasoning in  Language Model Prompting**, arXiv:2307.10573 [[paper](https://arxiv.org/abs/2307.10573)]
+- **TREA: Tree-Structure Reasoning Schema for Conversational Recommendation**, arXiv:2307.10543 [[paper](https://arxiv.org/abs/2307.10543)]
+- **Abductive Reasoning with the GPT-4 Language Model: Case studies from  criminal investigation, medical practice, scientific research**, arXiv:2307.10250 [[paper](https://arxiv.org/abs/2307.10250)]
+- **NeoSySPArtaN: A Neuro-Symbolic Spin Prediction Architecture for  higher-order multipole waveforms from eccentric Binary Black Hole mergers  using Numerical Relativity**, arXiv:2307.11003 [[paper](https://arxiv.org/abs/2307.11003)]
+- **Ethosight: A Joint-Embedding Based System for Nuanced Perception Using  Contextual Label Affinity Metric and Reasoning Based Iterative Learning**, arXiv:2307.10577 [[paper](https://arxiv.org/abs/2307.10577)]
+- **A mixed policy to improve performance of language models on math  problems**, arXiv:2307.08767 [[paper](https://arxiv.org/abs/2307.08767)]
+- **Neurosymbolic AI for Reasoning on Biomedical Knowledge Graphs**, arXiv:2307.08411 [[paper](https://arxiv.org/abs/2307.08411)]
+- **MinT: Boosting Generalization in Mathematical Reasoning via Multi-View  Fine-Tuning**, arXiv:2307.07951 [[paper](https://arxiv.org/abs/2307.07951)]
+- **Does Visual Pretraining Help End-to-End Reasoning?**, arXiv:2307.08506 [[paper](https://arxiv.org/abs/2307.08506)]
+- **A Neural-Symbolic Approach Towards Identifying Grammatically Correct  Sentences**, arXiv:2307.08036 [[paper](https://arxiv.org/abs/2307.08036)]
+- **Coupling Large Language Models with Logic Programming for Robust and  General Reasoning from Text**, arXiv:2307.07696 [[paper](https://arxiv.org/abs/2307.07696)]
+- **Generating Mathematical Derivations with Large Language Models**, arXiv:2307.09998 [[paper](https://arxiv.org/abs/2307.09998)]
+- **Large Language Models Perform Diagnostic Reasoning**, arXiv:2307.08922 [[paper](https://arxiv.org/abs/2307.08922)]
+- **Think-on-Graph: Deep and Responsible Reasoning of Large Language Model  with Knowledge Graph**, arXiv:2307.07697 [[paper](https://arxiv.org/abs/2307.07697)]
+- **Latent Space Representations of Neural Algorithmic Reasoners**, arXiv:2307.08874 [[paper](https://arxiv.org/abs/2307.08874)]
+- **Neuro-symbolic Empowered Denoising Diffusion Probabilistic Models for  Real-time Anomaly Detection in Industry 4.0**, arXiv:2307.06975 [[paper](https://arxiv.org/abs/2307.06975)]
+- **Data Augmentation for Mathematical Objects**, arXiv:2307.06984 [[paper](https://arxiv.org/abs/2307.06984)]
+
 ### 12 papers from arxiv about "AI for Math" from 10 Jul to 14 Jul
 - **SecureFalcon: The Next Cyber Reasoning System for Cyber Security**, arXiv:2307.06616 [[paper](https://arxiv.org/abs/2307.06616)]
 - **Can Vision-Language Models be a Good Guesser? Exploring VLMs for Times  and Location Reasoning**, arXiv:2307.06166 [[paper](https://arxiv.org/abs/2307.06166)]
