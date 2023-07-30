@@ -6,6 +6,23 @@ The essence of intelligence is **abstract ability** and **reasoning ability**, w
 The essence of intelligence is abstract and reasoning, and the ultimate embodiment of human abstract and reasoning ability is **mathematics**. Therefore, exploring how AI solves mathematical problems is a feasible way to realize AGI.  
 You can have an overview of the topic of the paper in **here**.  
 
+### 15 papers from arxiv about "AI for Math" from 24 Jul to 28 Jul
+- **Emotion4MIDI: a Lyrics-based Emotion-Labeled Symbolic Music Dataset**, arXiv:2307.14783 [[paper](https://arxiv.org/abs/2307.14783)]
+- **Strictly Low Rank Constraint Optimization -- An Asymptotically  $\mathcal{O}(\frac{1}{t^2})$ Method**, arXiv:2307.14344 [[paper](https://arxiv.org/abs/2307.14344)]
+- **Measuring Faithfulness in Chain-of-Thought Reasoning**, arXiv:2307.13702 [[paper](https://arxiv.org/abs/2307.13702)]
+- **GPT-3 Models are Few-Shot Financial Reasoners**, arXiv:2307.13617 [[paper](https://arxiv.org/abs/2307.13617)]
+- **Enhancing Human-like Multi-Modal Reasoning: A New Challenging Dataset  and Comprehensive Framework**, arXiv:2307.12626 [[paper](https://arxiv.org/abs/2307.12626)]
+- **Right for the Wrong Reason: Can Interpretable ML Techniques Detect  Spurious Correlations?**, arXiv:2307.12344 [[paper](https://arxiv.org/abs/2307.12344)]
+- **External Reasoning: Towards Multi-Large-Language-Models Interchangeable  Assistance with Human Feedback**, arXiv:2307.12057 [[paper](https://arxiv.org/abs/2307.12057)]
+- **Question Decomposition Improves the Faithfulness of Model-Generated  Reasoning**, arXiv:2307.11768 [[paper](https://arxiv.org/abs/2307.11768)]
+- **Eliminating Unintended Stable Fixpoints for Hybrid Reasoning Systems**, arXiv:2307.11286 [[paper](https://arxiv.org/abs/2307.11286)]
+- **Morphological Image Analysis and Feature Extraction for Reasoning with  AI-based Defect Detection and Classification Models**, arXiv:2307.11643 [[paper](https://arxiv.org/abs/2307.11643)]
+- **How to Tidy Up a Table: Fusing Visual and Semantic Commonsense Reasoning  for Robotic Tasks with Vague Objectives**, arXiv:2307.11319 [[paper](https://arxiv.org/abs/2307.11319)]
+- **ARB: Advanced Reasoning Benchmark for Large Language Models**, arXiv:2307.13692 [[paper](https://arxiv.org/abs/2307.13692)]
+- **Explaining Math Word Problem Solvers**, arXiv:2307.13128 [[paper](https://arxiv.org/abs/2307.13128)]
+- **CommonsenseVIS: Visualizing and Understanding Commonsense Reasoning  Capabilities of Natural Language Models**, arXiv:2307.12382 [[paper](https://arxiv.org/abs/2307.12382)]
+- **On the unreasonable vulnerability of transformers for image restoration  -- and an easy fix**, arXiv:2307.13856 [[paper](https://arxiv.org/abs/2307.13856)]
+
 ### 17 papers from arxiv about "AI for Math" from 17 Jul to 21 Jul
 - **Invalid Logic, Equivalent Gains: The Bizarreness of Reasoning in  Language Model Prompting**, arXiv:2307.10573 [[paper](https://arxiv.org/abs/2307.10573)]
 - **TREA: Tree-Structure Reasoning Schema for Conversational Recommendation**, arXiv:2307.10543 [[paper](https://arxiv.org/abs/2307.10543)]
