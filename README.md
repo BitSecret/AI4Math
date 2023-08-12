@@ -6,6 +6,29 @@ The essence of intelligence is **abstract ability** and **reasoning ability**, w
 The essence of intelligence is abstract and reasoning, and the ultimate embodiment of human abstract and reasoning ability is **mathematics**. Therefore, exploring how AI solves mathematical problems is a feasible way to realize AGI.  
 You can have an overview of the topic of the paper in **here**.  
 
+### 21 papers from arxiv about "AI for Math" from 7 Aug to 11 Aug
+- **Testing GPT-4 with Wolfram Alpha and Code Interpreter plug-ins on math  and science problems**, arXiv:2308.05713 [[paper](https://arxiv.org/abs/2308.05713)]
+- **Learning Type-Generalized Actions for Symbolic Planning**, arXiv:2308.04867 [[paper](https://arxiv.org/abs/2308.04867)]
+- **Neuro-Symbolic RDF and Description Logic Reasoners: The State-Of-The-Art  and Challenges**, arXiv:2308.04814 [[paper](https://arxiv.org/abs/2308.04814)]
+- **Cumulative Reasoning with Large Language Models**, arXiv:2308.04371 [[paper](https://arxiv.org/abs/2308.04371)]
+- **Current and Future Challenges in Knowledge Representation and Reasoning**, arXiv:2308.04161 [[paper](https://arxiv.org/abs/2308.04161)]
+- **NEOLAF, an LLM-powered neural-symbolic cognitive architecture**, arXiv:2308.03990 [[paper](https://arxiv.org/abs/2308.03990)]
+- **Understanding CNN Hidden Neuron Activations Using Structured Background  Knowledge and Deductive Reasoning**, arXiv:2308.03999 [[paper](https://arxiv.org/abs/2308.03999)]
+- **A criterion for Artificial General Intelligence: hypothetic-deductive  reasoning, tested on ChatGPT**, arXiv:2308.02950 [[paper](https://arxiv.org/abs/2308.02950)]
+- **dPASP: A Comprehensive Differentiable Probabilistic Answer Set  Programming Environment For Neurosymbolic Learning and Reasoning**, arXiv:2308.02944 [[paper](https://arxiv.org/abs/2308.02944)]
+- **A Symbolic Character-Aware Model for Solving Geometry Problems**, arXiv:2308.02823 [[paper](https://arxiv.org/abs/2308.02823)]
+- **On the Transition from Neural Representation to Symbolic Knowledge**, arXiv:2308.02000 [[paper](https://arxiv.org/abs/2308.02000)]
+- **Why Do We Need Neuro-symbolic AI to Model Pragmatic Analogies?**, arXiv:2308.01936 [[paper](https://arxiv.org/abs/2308.01936)]
+- **Acceptable risks in Europe's proposed AI Act: Reasonableness and other  principles for deciding how much risk management is enough**, arXiv:2308.02047 [[paper](https://arxiv.org/abs/2308.02047)]
+- **Knowledge-enhanced Neuro-Symbolic AI for Cybersecurity and Privacy**, arXiv:2308.02031 [[paper](https://arxiv.org/abs/2308.02031)]
+- **A Bipartite Graph is All We Need for Enhancing Emotional Reasoning with  Commonsense Knowledge**, arXiv:2308.04811 [[paper](https://arxiv.org/abs/2308.04811)]
+- **GPT-4 Can't Reason**, arXiv:2308.03762 [[paper](https://arxiv.org/abs/2308.03762)]
+- **Towards an AI to Win Ghana's National Science and Maths Quiz**, arXiv:2308.04333 [[paper](https://arxiv.org/abs/2308.04333)]
+- **Coupling Symbolic Reasoning with Language Modeling for Efficient  Longitudinal Understanding of Unstructured Electronic Medical Records**, arXiv:2308.03360 [[paper](https://arxiv.org/abs/2308.03360)]
+- **Exploring Automated Distractor and Feedback Generation for Math  Multiple-choice Questions via In-context Learning**, arXiv:2308.03234 [[paper](https://arxiv.org/abs/2308.03234)]
+- **A Forecaster's Review of Judea Pearl's Causality: Models, Reasoning and  Inference, Second Edition, 2009**, arXiv:2308.05451 [[paper](https://arxiv.org/abs/2308.05451)]
+- **Scalable and Equitable Math Problem Solving Strategy Prediction in Big  Educational Data**, arXiv:2308.03892 [[paper](https://arxiv.org/abs/2308.03892)]
+
 ### 15 papers from arxiv about "AI for Math" from 24 Jul to 28 Jul
 - **Emotion4MIDI: a Lyrics-based Emotion-Labeled Symbolic Music Dataset**, arXiv:2307.14783 [[paper](https://arxiv.org/abs/2307.14783)]
 - **Strictly Low Rank Constraint Optimization -- An Asymptotically  $\mathcal{O}(\frac{1}{t^2})$ Method**, arXiv:2307.14344 [[paper](https://arxiv.org/abs/2307.14344)]
