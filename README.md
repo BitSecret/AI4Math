@@ -6,6 +6,18 @@ The essence of intelligence is **abstract ability** and **reasoning ability**, w
 The essence of intelligence is abstract and reasoning, and the ultimate embodiment of human abstract and reasoning ability is **mathematics**. Therefore, exploring how AI solves mathematical problems is a feasible way to realize AGI.  
 You can have an overview of the topic of the paper in **here**.  
 
+### 10 papers from arxiv about "AI for Math" from 14 Aug to 18 Aug
+- **Learning Deductive Reasoning from Synthetic Corpus based on Formal Logic**, arXiv:2308.07336 [[paper](https://arxiv.org/abs/2308.07336)]
+- **Solving Challenging Math Word Problems Using GPT-4 Code Interpreter with  Code-based Self-Verification**, arXiv:2308.07921 [[paper](https://arxiv.org/abs/2308.07921)]
+- **Backward Reasoning in Large Language Models for Verification**, arXiv:2308.07758 [[paper](https://arxiv.org/abs/2308.07758)]
+- **Learning Abstract Visual Reasoning via Task Decomposition: A Case Study  in Raven Progressive Matrices**, arXiv:2308.06528 [[paper](https://arxiv.org/abs/2308.06528)]
+- **Diagnostic Reasoning Prompts Reveal the Potential for Large Language  Model Interpretability in Medicine**, arXiv:2308.06834 [[paper](https://arxiv.org/abs/2308.06834)]
+- **Testing GPT-4 with Wolfram Alpha and Code Interpreter plug-ins on math  and science problems**, arXiv:2308.05713 [[paper](https://arxiv.org/abs/2308.05713)]
+- **Better Zero-Shot Reasoning with Role-Play Prompting**, arXiv:2308.07702 [[paper](https://arxiv.org/abs/2308.07702)]
+- **Thinking Like an Expert:Multimodal Hypergraph-of-Thought (HoT) Reasoning  to boost Foundation Modals**, arXiv:2308.06207 [[paper](https://arxiv.org/abs/2308.06207)]
+- **S3IM: Stochastic Structural SIMilarity and Its Unreasonable  Effectiveness for Neural Fields**, arXiv:2308.07032 [[paper](https://arxiv.org/abs/2308.07032)]
+- **A Forecaster's Review of Judea Pearl's Causality: Models, Reasoning and  Inference, Second Edition, 2009**, arXiv:2308.05451 [[paper](https://arxiv.org/abs/2308.05451)]
+
 ### 21 papers from arxiv about "AI for Math" from 7 Aug to 11 Aug
 - **Testing GPT-4 with Wolfram Alpha and Code Interpreter plug-ins on math  and science problems**, arXiv:2308.05713 [[paper](https://arxiv.org/abs/2308.05713)]
 - **Learning Type-Generalized Actions for Symbolic Planning**, arXiv:2308.04867 [[paper](https://arxiv.org/abs/2308.04867)]
