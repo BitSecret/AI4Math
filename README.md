@@ -5,6 +5,7 @@
 The essence of intelligence is **abstract ability** and **reasoning ability**, which are the basis of learning. With abstract ability, we can build a static image of the objective world in the subjective world. With the ability of reasoning, we can simulate the dynamic changes of the objective world in the subjective world, and then make "predictive" decisions.   
 The essence of intelligence is abstract and reasoning, and the ultimate embodiment of human abstract and reasoning ability is **mathematics**. Therefore, exploring how AI solves mathematical problems is a feasible way to realize AGI.  
 You can have an overview of the topic of the paper in **here**.  
+Upload source code and stop update (September 20, 2023).  
 
 ### 10 papers from arxiv about "AI for Math" from 14 Aug to 18 Aug
 - **Learning Deductive Reasoning from Synthetic Corpus based on Formal Logic**, arXiv:2308.07336 [[paper](https://arxiv.org/abs/2308.07336)]
