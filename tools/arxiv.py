@@ -1,7 +1,7 @@
 import requests
 from fake_useragent import UserAgent
 from bs4 import BeautifulSoup
-from core.utils import load_json, save_json, keywords
+from tools.utils import load_json, save_json, keywords
 header = {"User-Agent": UserAgent().random}
 
 
